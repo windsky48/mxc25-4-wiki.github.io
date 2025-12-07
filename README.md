@@ -2,7 +2,7 @@ MX-C25-4-Wiki
   
 ---  
   
-(访问网站)](https://mxtxx25-4-wiki.github.io/)  
+访问网站(https://mxc25-4.3d.tc/)  
   
 托管了我们的点点滴滴。  
   
@@ -28,8 +28,8 @@ windsky48@outlook.com
 admin@mail.windtravel.fun  
 admin@mail.windtravel.online  
 admin@mxc25-4.3d.tc  
-
-主页：https://windsky48.github.io  
+  
+主页：https://github.com/windsky48/
 Issue：https://github.com/windsky48/mxc25-4-wiki.github.io/issues  
 QQ：2361068642  
 电话：+8613048504693  
