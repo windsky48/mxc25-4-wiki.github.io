@@ -21,11 +21,14 @@ MIT © MX-C25-4-Wiki. 保留所有权利.
   
 📧 联系方式  
 管理员：吴金宇  
-邮箱：rain1234567892022@126.com  
-      2361068642@qq.com  
-      windsky48@outlook.com  
-      admin@mail.windtravel.fun  
-      admin@mail.windtravel.online  
+邮箱：
+rain1234567892022@126.com  
+2361068642@qq.com  
+windsky48@outlook.com  
+admin@mail.windtravel.fun  
+admin@mail.windtravel.online  
+admin@mxc25-4.3d.tc  
+
 主页：https://windsky48.github.io  
 Issue：https://github.com/windsky48/mxc25-4-wiki.github.io/issues  
 QQ：2361068642  
